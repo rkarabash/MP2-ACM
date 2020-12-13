@@ -1,0 +1,4 @@
+﻿  MP2_KarabashRadimir_195.cpp
+C:\Users\Радимир\source\repos\MP2_KarabashRadimir_195\MP2_KarabashRadimir_195\MP2_KarabashRadimir_195.cpp(56,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Радимир\source\repos\MP2_KarabashRadimir_195\MP2_KarabashRadimir_195\MP2_KarabashRadimir_195.cpp(55,28): warning C4930: std::unique_lock<std::mutex> lock(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  MP2_KarabashRadimir_195.vcxproj -> C:\Users\Радимир\source\repos\MP2_KarabashRadimir_195\Debug\MP2_KarabashRadimir_195.exe
